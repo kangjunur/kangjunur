@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello World! I'm Jujun Nurjaman  👋
+
+![Jujun Nurjaman](img/header-1.png)
 
 <!--
 **kangjunur/kangjunur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on **@wpucourse** 
+- 🌱 I’m currently learning **Fullstack** Web Developer
