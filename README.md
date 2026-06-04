@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on **@wpucourse** 
+- 🔭 I’m currently working on **@sunova** 
 - 🌱 I’m currently learning **Fullstack** Web Developer
