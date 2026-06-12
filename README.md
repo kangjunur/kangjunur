@@ -28,3 +28,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </p>
+
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=kangjunur&show_icons=true&theme=radical" alt="Jujun's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kangjunur&theme=radical" alt="Jujun's Streak" />
+</p>
